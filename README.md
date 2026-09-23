@@ -99,3 +99,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Keep each skill focused, preserve progre
 ## License and attribution
 
 MIT License. See [LICENSE](LICENSE). Original project: [SnailSploit/claude-red](https://github.com/SnailSploit/claude-red).
+
+Codex adaptation maintained by Zen1th53 with OpenAI Codex.
