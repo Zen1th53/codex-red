@@ -1,3 +1,5 @@
+![codex-red banner](assets/banner.png)
+
 # codex-red
 
 Offensive-security skills adapted for the OpenAI Codex skill system.
