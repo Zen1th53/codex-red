@@ -2,6 +2,10 @@
 
 # codex-red
 
+[![Release](https://img.shields.io/github/v/release/Zen1th53/codex-red)](https://github.com/Zen1th53/codex-red/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Zen1th53/codex-red?style=social)](https://github.com/Zen1th53/codex-red/stargazers)
+[![License](https://img.shields.io/github/license/Zen1th53/codex-red)](LICENSE)
+
 Offensive-security skills adapted for the OpenAI Codex skill system.
 
 This repository contains 79 focused `SKILL.md` packages across web, identity, Active Directory, wireless, cloud, mobile, IoT, infrastructure, exploit development, fuzzing, reconnaissance, API security, containers, CI/CD, cryptography, privilege escalation, post-exploitation, forensics, supply chain, social engineering, networking, AI security, and reporting.
